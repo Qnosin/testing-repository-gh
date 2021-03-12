@@ -1,4 +1,4 @@
 # testing-repository-gh
 
 Testowy Tekst do cwiczenia commitow!
-first branch update!
+first branch update and third branch update!
